@@ -7,7 +7,7 @@ hero:
   text: "一个图片加水印工具"
   tagline: "支持读取 EXIF 信息，用户可自定义水印样式和位置，快速为照片添加快门、ISO 等相机参数。"
   image:
-    src: ./assets/images/logo.svg
+    src: /logo.svg
     alt: Comark
   actions:
     - theme: brand
