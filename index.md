@@ -38,3 +38,5 @@ features:
     details: 项目活跃开发中，未来将加入更多功能与定制选项。
 
 ---
+
+![img](/screenshot01.png)
