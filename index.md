@@ -3,19 +3,19 @@
 layout: home
 
 hero:
-  name: "Comark"
+  name: "Copicseal"
   text: "一个图片加水印工具"
   tagline: "支持读取 EXIF 信息，用户可自定义水印样式和位置，快速为照片添加快门、ISO 等相机参数。"
   image:
     src: /logo.svg
-    alt: Comark
+    alt: Copicseal
   actions:
     - theme: brand
       text: 前往下载
-      link: https://github.com/comarkapp/comark/releases
+      link: https://github.com/copicseal/copicseal/releases
     - theme: alt
       text: 项目仓库
-      link: https://github.com/comarkapp/comark
+      link: https://github.com/copicseal/copicseal
 
 features:
   - icon: 🖼️
