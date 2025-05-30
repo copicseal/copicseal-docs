@@ -35,5 +35,8 @@ export default defineConfig({
       message: 'Released under the Apache License 2.0.',
       copyright: 'Copyright © 2025 Kohai'
     }
+  },
+  sitemap: {
+    hostname: 'https://copicseal.kohai.top'
   }
 })
