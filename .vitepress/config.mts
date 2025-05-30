@@ -10,7 +10,8 @@ export default defineConfig({
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/logo.svg',
+    siteTitle: 'Copicseal 官网',
+    logo: { src: '/logo.svg', alt: 'Logo' },
     nav: [
       // { text: '首页', link: '/' },
       // { text: 'Examples', link: '/markdown-examples' }
