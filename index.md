@@ -39,4 +39,7 @@ features:
 
 ---
 
-![img](/screenshot01.png)
+<picture>
+  <source srcset="/screenshot01.webp" type="image/webp">
+  <img src="/screenshot01.png" alt="Copicseal Screenshot">
+</picture>

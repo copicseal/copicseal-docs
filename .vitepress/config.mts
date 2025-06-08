@@ -13,16 +13,15 @@ export default defineConfig({
     siteTitle: 'Copicseal 官网',
     logo: { src: '/logo.svg', alt: 'Logo' },
     nav: [
-      // { text: '首页', link: '/' },
-      // { text: 'Examples', link: '/markdown-examples' }
+      { text: '首页', link: '/' },
+      { text: '模板示例', link: '/template-examples' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '模板示例',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '模板示例', link: '/template-examples' },
         ]
       }
     ],
