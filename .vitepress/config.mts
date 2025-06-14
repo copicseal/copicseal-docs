@@ -14,13 +14,15 @@ export default defineConfig({
     logo: { src: '/logo.svg', alt: 'Logo' },
     nav: [
       { text: '首页', link: '/' },
+      { text: '下载', link: '/download' },
       { text: '模板示例', link: '/template-examples' }
     ],
 
     sidebar: [
       {
-        text: '模板示例',
+        text: '使用指南',
         items: [
+          { text: '下载', link: '/download' },
           { text: '模板示例', link: '/template-examples' },
         ]
       }

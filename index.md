@@ -11,10 +11,10 @@ hero:
     alt: Copicseal
   actions:
     - theme: brand
-      text: 前往下载
-      link: https://github.com/copicseal/copicseal/releases
+      text: 下载 Copicseal
+      link: /download
     - theme: alt
-      text: 项目仓库
+      text: Star 项目 🌟 
       link: https://github.com/copicseal/copicseal
 
 features:
