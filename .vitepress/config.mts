@@ -12,10 +12,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: 'Copicseal 官网',
     logo: { src: '/logo.svg', alt: 'Logo' },
+    lastUpdated: {},
     nav: [
       { text: '首页', link: '/' },
       { text: '下载', link: '/download' },
-      { text: '模板示例', link: '/template-examples' }
+      { text: '模板示例', link: '/template-examples' },
+      { text: '常见问题', link: '/faq' },
+      { text: '社区交流', link: '/community' },
     ],
 
     sidebar: [
@@ -24,6 +27,8 @@ export default defineConfig({
         items: [
           { text: '下载', link: '/download' },
           { text: '模板示例', link: '/template-examples' },
+          { text: '常见问题', link: '/faq' },
+          { text: '社区交流', link: '/community' },
         ]
       }
     ],
