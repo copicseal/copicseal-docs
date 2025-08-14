@@ -7,12 +7,12 @@ export default defineConfig({
   head: [
     ['meta', { name: 'keywords', content: 'Copicseal, Copicseal官网, Copicseal官方下载, Copicseal下载, 图片加水印, 图片加水印工具, 图片加logo, 图片加logo工具, 图片加ISO, 图片加相机参数, 图片加EXIF信息, 图片加时间, 图片加日期, 图片加位置, 图片加经纬度, 图片加经度, 图片加纬度, 图片加经纬度信息, 图片加经度信息, 图片加纬度信息' }],
     ['meta', { name: 'baidu-site-verification', content: 'codeva-RlVu25zR0J' }],
-    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=GTM-P3CJKCJ4' }],
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-YY005T1JZX' }],
     ['script', {},
       `window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'GTM-P3CJKCJ4');`
+      gtag('config', 'G-YY005T1JZX');`
     ]
   ],
   themeConfig: {
