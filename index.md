@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Copicseal"
+  name: "Copicseal 可图匠"
   text: "一个图片加水印工具"
   tagline: "支持读取 EXIF 信息，用户可自定义水印样式和位置，快速为照片添加快门、ISO 等相机参数。"
   image:
