@@ -49,10 +49,10 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the Apache License 2.0.',
-      copyright: 'Copyright © 2025 Kohai'
+      copyright: 'Copyright © 2025-2026 Kohai'
     }
   },
   sitemap: {
-    hostname: 'https://copicseal.kohai.top'
+    hostname: 'https://copicseal.com'
   }
 })
